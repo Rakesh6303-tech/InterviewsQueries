@@ -1,5 +1,5 @@
 package com.imp;
-//
+// This Question Asked in the 42 Gears Technical 1 Interview
 public class ZerosWillBeLast {
 
 	public static void main(String[] args) {
