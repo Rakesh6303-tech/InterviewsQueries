@@ -10,7 +10,7 @@ public class ZerosWillBeLast {
 			if(num!=0)  // If Non Zero Elements
 			{
 				ar[index]=num;  // That Value Placed at ar[index]
-				             // Ex; ar[0]=1, ar[2] like this
+				             // Ex; ar[0]=1, ar[1]=1, ar[2]=2,  like this
 				index++;     // Index will be Incremented
 			}
 		}//This loop fills the rest of the array from index to the end with 0s.
